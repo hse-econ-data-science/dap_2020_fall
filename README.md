@@ -1,7 +1,7 @@
 # Data Analysis with Python, Анализ данных на python, коллекция осень-зима 2020
 
 - [Wiki-страница курса,](http://wiki.cs.hse.ru/Анализ_данных_на_python,_фэн,_2020_fall) на ней для каждого семинара публикуются дополнительные материалы, которые необходимо просмотреть на неделе, когда проходит семинар
--  Материалы для каждого семинара лежат в папках `/sem*`
+- Материалы для каждого семинара лежат в папках `/sem*`
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
 - Любые вопросы можно задавать в чат с технической поддержкой [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/ds_econ_2020) 
 - [Материалы прошлого курса (весна 2020)](https://github.com/hse-econ-data-science/eds_spring_2020)
@@ -15,8 +15,7 @@
 
 ## Большой план маленьких побед
 
-
-__Модуль 1:__
+Установите перед первым семинаром Anaconda. [Инструкция для windows](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/utils/install_conda_windows.pdf) и [инструкция для мака](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/utils/install_conda_mac.pdf)
 
 - [__sem01__](./sem01_intro) ~~Тратим полтора часа на то, чтобы запустить анаконду.~~ Вводимся в python, git и делаем import this
 - [__sem02__](./sem02_pandas) Учимся работать с табличками в pandas
@@ -65,4 +64,4 @@ __Опасности и приключения:__  Опасности выход
 
 ## Лицензия
 
-Весь контент, созданный для этого курса распространяются на правах лицензии [Creative Commons Attribution-Share Alike 4.0.](https://creativecommons.org/licenses/by-sa/4.0/deed.ru) Материалы публикуются как общественное достояние.
+Весь контент, созданный для этого курса распространяются на правах лицензии [MIT License](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/LICENSE) Материалы публикуются как общественное достояние.
