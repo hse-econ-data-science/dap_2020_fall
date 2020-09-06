@@ -64,4 +64,4 @@ __Опасности и приключения:__  Опасности выход
 
 ## Лицензия
 
-Весь контент, созданный для этого курса распространяются на правах лицензии [Creative Commons Attribution-Share Alike 4.0.](https://creativecommons.org/licenses/by-sa/4.0/deed.ru) Материалы публикуются как общественное достояние.
+Весь контент, созданный для этого курса распространяются на правах лицензии [MIT License](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/LICENSE) Материалы публикуются как общественное достояние.
