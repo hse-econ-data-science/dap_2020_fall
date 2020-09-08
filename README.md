@@ -59,7 +59,7 @@ __Опасности и приключения:__  Опасности выход
 * [Ульянкин Филя](https://github.com/FUlyankin)
 * [Филатов Артём](https://github.com/FilatovArtm)
 * [Карпов Макс]( )
-* [Илья](https://github.com/ilyaaaaaaaa)
+* [Илья Аброскин](https://github.com/ilyaaaaaaaa)
 
 
 ## Лицензия
