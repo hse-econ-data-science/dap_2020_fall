@@ -18,7 +18,7 @@
 
 Установите перед первым семинаром Anaconda. [Инструкция для windows](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/utils/install_conda_windows.pdf) и [инструкция для мака](https://github.com/hse-econ-data-science/dap_2020_fall/blob/master/utils/install_conda_mac.pdf)
 
-- [__sem01__](./sem01_intro) ~~Тратим полтора часа на то, чтобы запустить анаконду.~~ Вводимся в python, git и делаем import this
+- [__sem01__](./sem01) ~~Тратим полтора часа на то, чтобы запустить анаконду.~~ Вводимся в python, git и делаем import this
 - [__sem02__](./sem02_pandas) Учимся работать с табличками в pandas
 - [__sem03__](./sem03_for) Говорим про циклы и условия
 - [__sem04__](./sem04_functions) Говорим о функциях
