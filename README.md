@@ -1,6 +1,7 @@
 # Data Analysis with Python, Анализ данных на python, коллекция осень-зима 2020
 
 - [Wiki-страница курса,](http://wiki.cs.hse.ru/Анализ_данных_на_python,_фэн,_2020_fall) на ней для каждого семинара публикуются дополнительные материалы, которые необходимо просмотреть на неделе, когда проходит семинар
+- [Youtube-канал](https://www.youtube.com/playlist?list=PLEwK9wdS5g0oKVIXZtbU3evzL4ndN2aXk) с записями семинаров
 - Материалы для каждого семинара лежат в папках `/sem*`
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
 - Любые вопросы можно задавать в чат с технической поддержкой [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/ds_econ_2020) 
