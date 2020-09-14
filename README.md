@@ -60,7 +60,7 @@
 * [Петросян Артур](https://github.com/pet67)
 * [Ульянкин Филя](https://github.com/FUlyankin)
 * [Филатов Артём](https://github.com/FilatovArtm)
-* [Карпов Макс]( )
+* [Карпов Макс](https://github.com/karpovmax)
 * [Илья Аброскин](https://github.com/ilyaaaaaaaa)
 
 
