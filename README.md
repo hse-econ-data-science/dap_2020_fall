@@ -7,7 +7,7 @@
 - Любые вопросы можно задавать в чат с технической поддержкой [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/ds_econ_2020) 
 - Канал с основными объявлениями [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/joinchat/AAAAAExc2DC-31ME6dQhnQ) 
 - [Материалы прошлого курса (весна 2020)](https://github.com/hse-econ-data-science/eds_spring_2020)
--  __Тут будет таблица с вашими оценками__
+-  [Таблица с вашими оценками](https://docs.google.com/spreadsheets/d/1LrhHvbUWnx5NADn5qlFDj3eK9irf_vbxJRYiuUmchvw/edit?usp=sharing)
 
 
 ## Домашние задания и контрольные
