@@ -13,6 +13,7 @@
 ## Домашние задания и контрольные
 
 - [hw01](https://classroom.github.com/a/iAHUsz3_) Предобрабатываем датасет и анализируем его.
+– [Мини-КР 1](https://official.contest.yandex.ru/contest/20469/enter/) 
 
 
 ## Большой план маленьких побед
