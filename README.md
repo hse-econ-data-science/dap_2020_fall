@@ -12,7 +12,10 @@
 
 ## Домашние задания и контрольные
 
-- [hw01](https://classroom.github.com/a/iAHUsz3_) Предобрабатываем датасет и анализируем его.
+- [HW1: таблички в pandas:](https://classroom.github.com/a/iAHUsz3_) предобрабатываем датасет и анализируем его.
+- [Контест, где надо представиться:](https://official.contest.yandex.ru/contest/20921/enter/)  вбить группу и ссылку на репозиторий с дз1.
+- [HW2: циклы и услоия:](https://official.contest.yandex.ru/contest/20811/enter/) решаем просты задачки на циклы.
+
 - [Мини-КР 1](https://official.contest.yandex.ru/contest/20469/enter/) 
 
 
